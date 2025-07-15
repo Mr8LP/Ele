@@ -4,7 +4,7 @@
 
 #### 管脚图
 
-![image-20250715154854689](C:\Users\14816\AppData\Roaming\Typora\typora-user-images\image-20250715154854689.png)
+<img src="C:\Users\14816\AppData\Roaming\Typora\typora-user-images\image-20250715154854689.png" alt="SL2.1A" style="zoom:50%;" />
 
 ##### 管脚定义
 
