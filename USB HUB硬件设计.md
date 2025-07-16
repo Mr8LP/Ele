@@ -124,7 +124,7 @@
 >
 >       参考链接：
 >
->       [1]: https://wiki.lceda.cn/zh-hans/design-production/pcb-design/practical-circuit/crystal-oscillator-circuit.html	"晶振电路设计"
+>       [[1\]]: https://wiki.lceda.cn/zh-hans/design-production/pcb-design/practical-circuit/crystal-oscillator-circuit.html	""晶振电路设计""
 >
 >       
 
