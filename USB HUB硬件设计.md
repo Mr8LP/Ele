@@ -84,8 +84,11 @@
 >
 >    参考链接：
 >
->    [1]: https://blog.csdn.net/qq_38636482/article/details/125280489	"彻底搞懂：什么是耦合电容？什么是去耦电容？什么是旁路电容？"
->    [2]: https://blog.csdn.net/chenhuanqiangnihao/article/details/113991687	"电容-去耦和退耦的注意事项"
+>    [1] https://blog.csdn.net/qq_38636482/article/details/125280489 彻底搞懂：什么是耦合电容？什么是去耦电容？什么是旁路电容？
+>
+>    [2] https://blog.csdn.net/chenhuanqiangnihao/article/details/113991687 电容-去耦和退耦的注意事项
+>
+>    
 >
 >    2. **有关XIN，XOUT管脚接线：**
 >
@@ -124,7 +127,5 @@
 >
 >       参考链接：
 >
->       [[1\]]: https://wiki.lceda.cn/zh-hans/design-production/pcb-design/practical-circuit/crystal-oscillator-circuit.html	""晶振电路设计""
->
->       
+>       [1] https://wiki.lceda.cn/zh-hans/design-production/pcb-design/practical-circuit/crystal-oscillator-circuit.html .晶振电路设计
 
